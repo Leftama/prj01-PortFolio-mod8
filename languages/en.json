@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "Back & Front Developer",
+        "parrafo-info": "I am a computer engineer specializing in web application development, with four years of experience in Back-End development and almost a year in Front-End development. My focus is on creating creative, efficient, and robust solutions that meet the needs of users and businesses.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "I am a computer engineer passionate about programming. I have been exploring web application development for four years, both in Back-End and Front-End.<br>I aspire to find a job in the Web Development world, gain experience, acquire new knowledge, and strengthen my professional life.<br><br>I am an empathetic and enthusiastic person, with skills focused on teamwork, effective communication, problem-solving, responsibility, and proactivity. I enjoy learning from others and continuously improving myself."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Statistic",
+        "tiempo-formacion1": "2019 - In progress",
+        "formacion2": "Full-Stack Developer",
+        "tiempo-formacion2": "2022 - In progress",
+        "formacion3": "Accounting for Commercial and Financial Transactions"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Search for Your Superhero",
+        "info-proyecto1": "A dynamic application that, through a code, allows users to search for a superhero and view information about the searched character. It includes characters from Marvel and DC.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
+        "title-proyecto3": "Who's That Pokémon?",
+        "info-proyecto3": "A game where you must guess the name of a Pokémon by only seeing its silhouette. The application displays 20 Pokémon with a filter that makes it difficult to clearly identify which Pokémon it is."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}

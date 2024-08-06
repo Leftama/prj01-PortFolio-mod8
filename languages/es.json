@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Desarrollador Back & Front",
+        "parrafo-info": "Soy un ingeniero informático especializado en el desarrollo de aplicaciones web, con cuatro años de experiencia en desarrollo Back-End y casi un año en desarrollo Front-End. Mi enfoque está en crear soluciones creativas, eficientes y robustas que respondan a las necesidades de los usuarios y las empresas.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy ingeniero informático apasionado por la programación. Hace cuatro años que exploro el desarrollo de aplicaciones web, tanto en el Back-End como en el Front-End.<br>Aspiro a conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación efectiva, resolución de problemas, responsabilidad y proactividad. Me gusta aprender de los demás y superarme continuamente."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Ingeniería Informática",
+        "tiempo-formacion1": "1999 - 2007",
+        "formacion2": "Ruby on Rails para Start up",
+        "tiempo-formacion2": "2019 - 2020",
+        "formacion3": "Desarrollo Front-End"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Busca a tu Super Hero",
+        "info-proyecto1": "Una aplicación dinámica que, a través de un código, permite a los usuarios buscar un superhéroe y visualizar información referente al personaje buscado. Se incluyen personajes de Marvel y DC.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "¿Quién e ese Pokémon?",
+        "info-proyecto3": "Juego donde se debe adivinar el nombre de un pokémon viendo solo la silueta. La aplicación muestra 20 pokémones con un filtro que no deja ver con claridad cuál pokémon es."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}
